@@ -770,15 +770,15 @@ h2 {
   color: white;
   text-shadow: 2px 2px #7a6a53;
   border-bottom: 1px solid #99b2b7;
-  padding: 1px;
-  margin: 30px 0 0 0;
+  padding: 0.5%;
+  margin: 10px 0 0 0;
 }
 
 h3 {
-  font-size: 130%;
+  font-size: 450%;
   color: #7a6a53;
-  padding: 1px;
-  margin: 10px 0 0 0;
+  padding: 3%;
+  margin: 1% 0 0 0;
 }
 
 
@@ -827,21 +827,24 @@ h1 {
   opacity: 0.9;
 }
 
-#ProfessionalPosse {
-  background-image: url(../img/11013257405_f02b79f870_o.jpg);
+#PunchCard {
+  background-image: url(../img/3664956027_fb535d2b34_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #d9ceb2;
-  height: 800px;
+  background-color: #7a6a53;
+  opacity: 0.9;
 }
 
-#MentorshipSponsorship {
-  background-image: url(../img/15901211993_bfbf88177c_o.jpg);
+#Ninja {
+  background-image: url(../img/4764534850_fecfe98831_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #d9ceb2;
-  height: 800px;
+  background-color: #7a6a53;
+  opacity: 0.9;
 }
+
+
+
 
 
 

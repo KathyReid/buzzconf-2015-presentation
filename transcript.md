@@ -46,6 +46,9 @@ We'll then move to discussing the human body as a development platform
 
 ## Early computers
 
+This might seem counter-intuitive, but in order to look forward to the future of development platforms, I'm going to start by taking an historical perspective.
+
+
 SLIDE: Betty Jennings and Frances Bilas working on ENIAC
 
 As most people in the audience would know, early computing platforms  - from around the 1930s to the 1940s - were physically large, taking up entire buildings or floors of buildings. Here, we can see Betty Jennings and Frances Bilas working on an early computer called ENIAC - the Electrical Numeric Integrator and Calculator. Using vacuum tubes for logical processing, these platforms had a very large physical footprint.
@@ -56,6 +59,39 @@ Development was done by manually moving dials and levers, or physically plugging
 
 ## Transistors and integrated circuits
 
-In the 1950s and 1960s, the invention of the transistor and later, the integrated circuit reduced the footprint of computing platforms - at least slightly.
+In the 1950s and 1960s, the invention of the transistor and later, the integrated circuit reduced the footprint of computing platforms - at least slightly.The equipment took up half a building instead of a full one.
 
 SLIDE: IBM 608
+
+Development had progressed slightly, and instead of manual switches and registers, programmes were run on advanced technology, like punch cards.
+
+SLIDE: Punch cards
+
+However, development was still hindered by the physical nature of the work - programming with punch cards was laborious, precise, meticulous, and required significant rework in the event of an error. There weren't syntax checkers or integrated development environments for punch cards to check that the code was at least syntactically valid before being input into the computer.
+
+The rise of integrated circuits helped to address this issue
+
+
+# The body as a development platform
+
+## Fundamental assumptions
+
+I'd like to first of all explore some fundamental assumptions I make around the body as a development platform. This is sometimes called 'bio-hacking' or 'body-hacking'. This movement assumes that to augment the human body is a 'hack' - an act of volition that is somehow seditious or defiant, or contrarian. There is an element of doing something that is somehow not quite proper, or authorised. 
+
+SLIDE: Ninja
+
+That brings me to the first assumption;
+
+* ASSUMPTION 1: If you can't open it, you don't own it.
+
+
+SLIDE: Assumption 1
+
+Which brings me to my next
+
+
+
+
+# Other notes
+
+http://www.theguardian.com/artanddesign/architecture-design-blog/2015/aug/14/body-hackers-the-people-who-turn-themselves-into-cyborgs
