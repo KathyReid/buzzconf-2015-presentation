@@ -48,14 +48,14 @@ We'll then move to discussing the human body as a development platform
 
 SLIDE: Betty Jennings and Frances Bilas working on ENIAC
 
-As most people in the audience would know, early computing platforms were physically large, taking up entire buildings or floors of buildings. Here, we can see Betty Jennings and Frances Bilas working on an early computer called ENIAC - the Electrical Numeric Integrator and Calculator. Using vacuum tubes for logical processing, these platforms had a very large physical footprint.
-
-Development was done by manual moving dials and levers, or physically plugging in different switches and registers together. The development process was laborious, manual - and subject to the vagaries of such a large physical footprint. Indeed, it was during the early days of computing that the term 'bug' was coined - from an actual bug.
+As most people in the audience would know, early computing platforms  - from around the 1930s to the 1940s - were physically large, taking up entire buildings or floors of buildings. Here, we can see Betty Jennings and Frances Bilas working on an early computer called ENIAC - the Electrical Numeric Integrator and Calculator. Using vacuum tubes for logical processing, these platforms had a very large physical footprint.
 
 SLIDE: The bug removed froma computer by Grace Hopper
 
+Development was done by manually moving dials and levers, or physically plugging in different switches and registers together. The development process was laborious, manual - and subject to the vagaries of such a large physical footprint. Indeed, it was during the early days of computing that the term 'bug' was coined - from an actual bug. Development work would be halted by errors such as vacuum tubes overheating and needing to be replaced. Obviously, building new development platforms represented huge investment - and so these early computers were limited to the military and advanced academic institutions.
 
+## Transistors and integrated circuits
 
+In the 1950s and 1960s, the invention of the transistor and later, the integrated circuit reduced the footprint of computing platforms - at least slightly.
 
-
-Today, I'll be tak
+SLIDE: IBM 608
