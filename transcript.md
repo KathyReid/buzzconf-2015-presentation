@@ -53,7 +53,7 @@ SLIDE: Betty Jennings and Frances Bilas working on ENIAC
 
 As most people in the audience would know, early computing platforms  - from around the 1930s to the 1940s - were physically large, taking up entire buildings or floors of buildings. Here, we can see Betty Jennings and Frances Bilas working on an early computer called ENIAC - the Electrical Numeric Integrator and Calculator. Using vacuum tubes for logical processing, these platforms had a very large physical footprint.
 
-SLIDE: The bug removed froma computer by Grace Hopper
+SLIDE: The bug removed from a computer by Grace Hopper
 
 Development was done by manually moving dials and levers, or physically plugging in different switches and registers together. The development process was laborious, manual - and subject to the vagaries of such a large physical footprint. Indeed, it was during the early days of computing that the term 'bug' was coined - from an actual bug. Development work would be halted by errors such as vacuum tubes overheating and needing to be replaced. Obviously, building new development platforms represented huge investment - and so these early computers were limited to the military and advanced academic institutions.
 
@@ -69,23 +69,97 @@ SLIDE: Punch cards
 
 However, development was still hindered by the physical nature of the work - programming with punch cards was laborious, precise, meticulous, and required significant rework in the event of an error. There weren't syntax checkers or integrated development environments for punch cards to check that the code was at least syntactically valid before being input into the computer.
 
-The rise of integrated circuits helped to address this issue
+The rise of integrated circuits and tape-based storage helped to address this issue, and eventually this led to a movement away from the mainframe as the development platform and to the ..
+
+## PC as the platform
+
+SLIDE: ZX Spectrum
+
+PC as the platform. What a mighty fine piece of engineering there, my very first computer. Oh, I miss you, ZX Spectrum with your 48k of RAM and your tape drive.
+
+Love the ZX Spectrum. Aaah.
+
+Even PCs though weren't without challenges as a development platform. Firstly, it was difficut to code for different environments. Code written in BASIC for the ZX Spectrum wouldn't work for instance with a slightly different variant of BASIC for the Apple IIe. Test and production environments were also difficult to achieve. You had to have one machine for development, package the software on to cassette tape, which itself was subject to the vagaries of heat, dust, accidentally being overwritten by the Top Gun soundtrack...
+
+Then you had to transfer this via high speed network to your deployment machine - your production machine. Did I say high speed network? Well, it was for its time. Sneakernet.
+
+SLIDE: Nike high tops
+
+That's right, the media containing the software was deployed, whilst wearing this fashionable network transport device, then physically loaded onto the target host. Assuming of course, it was compatible.
+
+# Web as a platform
+
+So, PCs overcame some of the challenges of the mainframe era - they were physically much smaller, had better input devices, and more rapid development tools. But deploying to different environments, and testing, were still cumbersome activities.
+
+Then in the early 1990s, this chap - SIR Tim Berners-Lee, invented a little thing called the World Wide Web.
+
+SLIDE: Tim Berners-Lee
+
+Over the next 10 to 15 years, development platforms shifted away from the standalone PC to networked web servers. We saw the rise of software as a service, and highly-available, redundant platforms that were robust, and could survive partial outages.
+
+From a development perspective, I could write code locally on my own machine, and using the magic of the web, then deploy to a production environment in another country, on another continent - no Sneakers required. Testing was much easier - I could deploy to different servers easily and test against different platforms, and different configurations
+
+
+
+
+
+
+
+
+
+
+## Comparison of environments
+
+So, why have I just given us all a brief history lesson. Well, for each era or evolution of development platforms -
+
+* early computers
+* mainframes
+* PCs
+* Web based applications
+* Mobile
+* Wearables
+
+there were a set of limitations. Those limitations were surmounted as each new platform evolved, but each new platform brought with it a new set of challenges to be addressed.
+
+Now, if you take a look at the next slide, you'll see the point I'm making by providing the quick history lesson.
+
+SLIDE: Comparison of environments
+
+
+
 
 
 # The body as a development platform
 
 ## Fundamental assumptions
 
-I'd like to first of all explore some fundamental assumptions I make around the body as a development platform. This is sometimes called 'bio-hacking' or 'body-hacking'. This movement assumes that to augment the human body is a 'hack' - an act of volition that is somehow seditious or defiant, or contrarian. There is an element of doing something that is somehow not quite proper, or authorised. 
+I'd like to first of all explore some fundamental assumptions I make around the body as a development platform. This is sometimes called 'bio-hacking' or 'body-hacking'. This movement assumes that to augment the human body is a 'hack' - an act of volition that is somehow seditious or defiant, or contrarian. There is an element of doing something that is somehow not quite proper, or authorised.
 
 SLIDE: Ninja
 
 That brings me to the first assumption;
 
-* ASSUMPTION 1: If you can't open it, you don't own it.
-
+* ASSUMPTION 1: If you can't open it, you don't own it. And yes, we do own our own bodies.
 
 SLIDE: Assumption 1
+
+For this reason I prefer to call this field 'body development' or 'body dev' or 'functional body modification'.
+
+It's not a hack if you own the infrastructure. I do not view functional body modification or body development as an act of sedition, as an act of defiance. Yes, it may be an act of self-expression, but equally it may be an act of self-improvement, of personal growth, of realising - or extending - one's potential.
+
+The next major topic of debate in this space is whether or not it's ethical to be functionally enhancing and modifying our bodies with technology. Where do we draw the line? Implanting pacemakers and cardioverter difibrillators, and insulin pumps is now standard medical practice - with the key differentiator being that we're entirely reliant on a medical infrastructure and medical practitioners and medical technicians to do so.
+
+On this point I take the utilitarian rather than Kantian philosophical view - body dev is neither wholly good nor wholly bad. How you modify your body, and what you do with your modification matters.
+
+This gives us assumption number 2.
+
+SLIDE: Assumption 2
+
+* ASSUMPTION 2: It's ethically neither absolutely right nor absolutely wrong to functionally modify your body. But doing it well minimises harm.
+
+
+
+
 
 Which brings me to my next
 

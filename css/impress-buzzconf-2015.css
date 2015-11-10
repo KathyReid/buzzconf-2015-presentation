@@ -775,7 +775,7 @@ h2 {
 }
 
 h3 {
-  font-size: 450%;
+  font-size: 350%;
   color: #7a6a53;
   padding: 3%;
   margin: 1% 0 0 0;
@@ -837,6 +837,30 @@ h1 {
 
 #Ninja {
   background-image: url(../img/4764534850_fecfe98831_o.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
+#ZXSpectrum {
+  background-image: url(../img/ZXSpectrum48k.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
+#HighTops {
+  background-image: url(../img/Adidas_Conductor_High_Olympics_1988_re-edition_sneakers.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
+#TimBernersLee {
+  background-image: url(../img/16662336315_bc557234cb_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #7a6a53;
