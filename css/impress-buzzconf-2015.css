@@ -867,6 +867,22 @@ h1 {
   opacity: 0.9;
 }
 
+#iMac {
+  background-image: url(../img/IMac_Bondi_Blue.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
+#AndroidPhones {
+  background-image: url(../img/6960610178_6904e73390_o.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
 
 
 

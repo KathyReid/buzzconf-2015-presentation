@@ -87,7 +87,7 @@ SLIDE: Nike high tops
 
 That's right, the media containing the software was deployed, whilst wearing this fashionable network transport device, then physically loaded onto the target host. Assuming of course, it was compatible.
 
-# Web as a platform
+## Web as a platform
 
 So, PCs overcame some of the challenges of the mainframe era - they were physically much smaller, had better input devices, and more rapid development tools. But deploying to different environments, and testing, were still cumbersome activities.
 
@@ -97,16 +97,41 @@ SLIDE: Tim Berners-Lee
 
 Over the next 10 to 15 years, development platforms shifted away from the standalone PC to networked web servers. We saw the rise of software as a service, and highly-available, redundant platforms that were robust, and could survive partial outages.
 
-From a development perspective, I could write code locally on my own machine, and using the magic of the web, then deploy to a production environment in another country, on another continent - no Sneakers required. Testing was much easier - I could deploy to different servers easily and test against different platforms, and different configurations
+From a development perspective, I could write code locally on my own machine, and using the magic of the web, then deploy to a production environment in another country, on another continent - no Sneakers required. Testing was much easier - I could deploy to different servers easily and test against different platforms, and different configurations.
 
+As long as I had a standards compliant web browser - you know, like IE - I could use the software.
 
+Life was good.
 
+There was just one minor problem.
 
+I couldn't take the web with me. It wasn't portable. I couldn't check AOL or Myspace on the move.
 
+## Mobile as a platform
 
+SLIDE: iMac
 
+Or, not really portable. And so, the next evolution sought to unchain us from our desks, and using near-ubiquitous wifi, we began to have mobile development platforms.
 
+App Stores were born. iTunes, Google Play. Suddenly the device itself wasn't the platform in its entirety - the platform needed an ecosystem to feed it updates and updates and more updates.
 
+Just like we'd seen with early PCs, heterogeneity was a problem again. Certain software only worked on certain models of phone. And heaven help early Android developers, with hundreds of different models to have to test with.
+
+SLIDE: which model?
+
+Of course, there was the choice of whether to develop for Android, iOS, or use some sort of hybrid development technique like Phonegap to bridge the divide between native app development and HTML5.
+
+## Wearables
+
+Then came wearables. Not _really_ a development platform in their own right - more an extension of mobile devices. But they did extend the challenges for developers.
+
+Easy to acquire, easy to dispose of.
+
+But, similarly to mobiles, massive choice.What to develop for? Pebble? Gear?
+
+What's the lifespan of the device? 12 months? 2 years?
+
+And before I start to talk about the next evolution - implantables and the body as a development platform, I'd like to take a moment to compare and reflect.
 
 ## Comparison of environments
 
@@ -124,6 +149,15 @@ there were a set of limitations. Those limitations were surmounted as each new p
 Now, if you take a look at the next slide, you'll see the point I'm making by providing the quick history lesson.
 
 SLIDE: Comparison of environments
+
+
+Creation of new environments
+Environment physical space
+Equivalence of UAT / prod environments
+Ease of testing
+Ease of deployment
+Monitoring of environment
+Tear down of environment
 
 
 
