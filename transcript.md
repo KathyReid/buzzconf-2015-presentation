@@ -150,14 +150,11 @@ Now, if you take a look at the next slide, you'll see the point I'm making by pr
 
 SLIDE: Comparison of environments
 
-
-Creation of new environments
-Environment physical space
-Equivalence of UAT / prod environments
-Ease of testing
-Ease of deployment
-Monitoring of environment
-Tear down of environment
+* physical footprint
+* setup and tear down of environments
+* development approach
+* testing and QA
+* release and deployment
 
 
 

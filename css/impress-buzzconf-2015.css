@@ -234,7 +234,7 @@ a:focus {
 
 .step {
     position: relative;
-    width: 1000px;
+    width: 1200px;
     padding: 30px;
     margin: 20px auto;
     font-size: 150%;
@@ -795,13 +795,6 @@ h1 {
   opacity: 0.7;
 }
 
-#KnowThyself {
-  background-image: url(../img/3543722468_64ec57cc2f_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  width: 1000px;
-}
-
 
 #ENIAC {
   background-image: url(../img/Two_women_operating_ENIAC.gif);
@@ -885,33 +878,28 @@ h1 {
 
 
 
-
-
-
-
-
-#VARKtable, #MotivationTable, #MindsetTable, #TechPersonalConcepttable, .list-items {
+ .list-items {
 
   border: 2px solid #99b2b7;
-  margin: 100px 0 0 0;
+  margin: 50px 0 0 0;
   background-color: #d9ceb2;
   text-align: center;
 
 }
 
-#VARKtable thead, #MotivationTable thead, #MindsetTable thead, #TechPersonalConcepttable thead, .list-items thead {
+.list-items thead {
   font-weight: bolder;
 }
 
-#VARKtable td, #VARKTable th, #MotivationTable td, #MotivationTable th, #MindsetTable th, #MindsetTable td, #TechPersonalConcepttable th, #TechPersonalConcepttable td, .list-items th, .list-items td {
+.list-items th, .list-items td {
   border: 2px solid #99b2b7;
-  padding: 2%;
+  padding: 1%;
   color: black;
-  font-size: 110%;
+  font-size: 90%;
   border-collapse: collapse;
 }
 
-#MotivationTable td ul, #TechPersonalConcepttable td ul, .list-items td ul {
+.list-items td ul {
   list-style: square inside;
   text-align: left;
 }
