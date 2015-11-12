@@ -156,15 +156,18 @@ SLIDE: Comparison of environments
 * testing and QA
 * release and deployment
 
+So, what would this table look like if we extended it to include the human body as a development platform - with implantable technology, programmable technology inside the body, and/or controlling or interacting with bodily functions?
 
-
+SLIDE: Human body as a dev environment with question marks
 
 
 # The body as a development platform
 
 ## Fundamental assumptions
 
-I'd like to first of all explore some fundamental assumptions I make around the body as a development platform. This is sometimes called 'bio-hacking' or 'body-hacking'. This movement assumes that to augment the human body is a 'hack' - an act of volition that is somehow seditious or defiant, or contrarian. There is an element of doing something that is somehow not quite proper, or authorised.
+I'd like to first of all explore some fundamental assumptions around the body as a development platform. There's a huge amount of debate in this area, and this set of assumptions serves as a foundation for the ideas presented here.
+
+This is sometimes called 'bio-hacking' or 'body-hacking' or 'grinding'. This movement assumes that to augment the human body is a 'hack' - an act of volition that is somehow seditious or defiant, or contrarian. There is an element of doing something that is somehow not quite proper, or authorised.
 
 SLIDE: Ninja
 
@@ -188,6 +191,12 @@ SLIDE: Assumption 2
 
 * ASSUMPTION 2: It's ethically neither absolutely right nor absolutely wrong to functionally modify your body. But doing it well minimises harm.
 
+But isn't this all a bit esoteric? We're talking about something that's way way off into the future?
+
+No. The societal implications, the ethical implications, and the response mechanisms for a world where bodies are heavily modified - whether by medical professionals or body developers - are here now. And we need to tackle them.
+
+* ASSUMPTION 3: We're already deeply in the trans-human era and we need to prepare for the post-humanist world.
+
 
 
 
@@ -200,3 +209,19 @@ Which brings me to my next
 # Other notes
 
 http://www.theguardian.com/artanddesign/architecture-design-blog/2015/aug/14/body-hackers-the-people-who-turn-themselves-into-cyborgs
+
+
+DUARTE  - The
+first discusses entangled agencies between organic and
+inorganic entities that are in a relation, mutually
+influencing one another, allowing individuals to register
+differences to which they were not articulated previous-
+ly
+
+
+DUARTE - They consider the body a highly
+malleable material, a transformable, improvable,
+augmentable entity. This attitude towards human corpo-
+reality corresponds to certain trends in performance art.
+The new forms of embodiment are based on the deploy-
+ment of novel and often highly advanced technologies.
