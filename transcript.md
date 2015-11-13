@@ -262,14 +262,31 @@ So, here I'm going to borrow a little from ITIL and COBIT  - and essentially pos
 Environmental setup and decomm is quite challenging when we look at the human body as a development platform. Short of human cloning - which is still some decades away - there's no real way of creating a new development environment.
 
 Even with cloning, _growing_ a new environment still takes at least 18 years ;-)
-However, one approach here is the emerging field of body on a chip technology. Scientis
+
+However, one approach here is the emerging field of body on a chip technology. Scientists have been able to replicate the functions of major organs, and build them into components no larger than computer chips.
 
 SLIDE: Lung on a chip
 
+This makes it much easier to test new pharmaceuticals, understand how different technologies will interoperate together - and shake out some risks before moving to something like implantation.
+
+So, I think that's probably going to be the approach - at least for the foreseeable future.
+
+## end of environment lifecycle considerations
+
+The other consideration we need to have here is at the other end of the lifecycle. What happens to implantable devices when someone dies? Do the implantable devices need to be removed before burial or cremation? What if the person has an active device? Something that transmits or which can be scanned?
+
+My father was one of the first people to have a device called a Cardioverter Defibrillator implanted in the early 1990s. The device was designed to monitor, and if necessary, correct an arrhythmia he had. Unfortunately, he passed away around 10 years ago, from a completely different illness. Before he passed away, he actually had to visit a cardiologist, and have his defibrillator - in effect - turned off.
+
+Will we need to do something for people who have other pieces of technology implanted? How will we know? What risk does that pose? If technical components are inadvertently buried or cremated with a person, will they present an environmental risk?
+
+[ ] - think about whether an image here of an older person dying would be useful
+
+
+#Development approach
 
 
 
-#
+
 
 
 
