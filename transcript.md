@@ -215,11 +215,21 @@ SLIDE: Body attributes
 * Age - riskier as we age. Changes to skin, co-morbidities.
 
 * Previous medical history
-  * infection risk - talk about antibiotic resistance. This becomes worse if the development platform - the person - has a compromised immune system. Has anyone ever had to maintain he 'dodgy server'? All the lights are green, all the monitoring is green, but you just know that as soon as you start the install that something's going to fail? Development on a human body with previous infection risk or compromised immune system is similar.
+  * infection risk - One of the greatest challenges to body development is actually the rising threat of antibiotic resistance. In under 10 years, we're facing a situation where will not have last-line antibiotics. Bacteria are getting stronger, and we're running out of drugs to hit them with.
+
+  * This becomes worse if the development platform - the person - has a compromised immune system. Has anyone ever had to maintain he 'dodgy server'? All the lights are green, all the monitoring is green, but you just know that as soon as you start the install that something's going to fail? Development on a human body with previous infection risk or compromised immune system is similar.
 
   * allergies - different materials used in implantables. It's also not just allergies we have to be worried about - for instance material that's supposed to be encapsulated or enclosed can sometimes leak out. Take the case of Quinn Norton for instance - she had rare earth magnets implanted in the tip of one of her fingers so that she could sense some radio frequencies. Now, she can't have an MRI because of the metal that has leaked into her bloodstream.
 
   * leftovers - the I have some silicon neatly tucked up behind my liver story. Talk about scar tissue, and how implanting devices where previous devices have been leaves scar tissue. Portacath inserted, fibrous scar tissue, makes it more difficult to implant one again.
+
+* Psychology is an important factor in the physical environment. Academically, the Cartesian split of a separate body and mind has now long fallen out of favour. However, we're now in an era where we're able to develop the body faster than we're able to develop psychological approaches to support that advancement.
+
+  * Indeed, there's a growing body of medical literature where people are rejecting their implantable medical devices - and subconsciously disabling them - something called 'Twiddler's Syndrome' - references at the end of the talk.
+
+  * Another important psychological factor is the fear or repulsion have for implantable technology and for body development. One of my work colleagues recoils in disgust every time I tell her about the chip I want to have implanted in my hand. There's a lack of acceptance for these practices - and also reports of discrimination against those who practice body development within the workplace.
+
+* We also have to consider socioeconomic factors. Firstly, you have to be able to afford the implantable technology. Then, what happens when it needs replacing - because most technology, eventually, needs replacing. Does it need code updates? Are they affordable? Is ongoing maintenance required?
 
 
   So, there's some key challenges here. Everyone is different, and we have medical histories and different things wrong with us - we're not equivalent physical environments.
@@ -230,10 +240,48 @@ SLIDE: Body attributes
 
 ### Medical only
 
-One approach is to have only qualified medical practitioners 
+One approach is to have only qualified medical practitioners undertake body development. While I don't for one minute want to minimise the skill, and training, and knowledge that medical practitioners have, this still isn't a realistic approach. Each of us owns our own body, and the technically minded, and relentlessly curious amongst us are going to explore it.
+
+We must strike an appropriate balance between curiosity and stupidity.
+
+### A balanced approach
+
+So, here I'm going to borrow a little from ITIL and COBIT  - and essentially posit a change plan for body development.
+
+* Establish a baseline - know your body, what it's been through, and how it responds. Understand and document dependencies in your body - your development environment - just as you would with a technical environment. Know what normal looks like.
+
+* Plan your changes - make sure you have things like antibiotics and painkillers and support people on hand. Make sure you've coded up your RFID chip *before* you implant it. Make sure the NFC chip you're implanting
+
+* Monitor - what are you going to do if you develop an infection? What does an infection look like - *this* is what an infection looks like. Make sure there's money set aside for maintenance.
+
+* Back out - and if it's not working, if it doesn't look right, if it doesn't feel right, if you're not able to embody the development, back it out.
+
+
+# Environment [de]commission
+
+Environmental setup and decomm is quite challenging when we look at the human body as a development platform. Short of human cloning - which is still some decades away - there's no real way of creating a new development environment.
+
+Even with cloning, _growing_ a new environment still takes at least 18 years ;-)
+However, one approach here is the emerging field of body on a chip technology. Scientis
+
+SLIDE: Lung on a chip
 
 
 
+
+#
+
+
+
+
+# The Body Development Manifesto
+
+* Establish a baseline - know what's normal
+
+
+
+
+# References
 
 # Other notes
 

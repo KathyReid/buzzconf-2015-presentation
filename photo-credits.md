@@ -55,3 +55,8 @@ Micah Baldwin
 Micah's DNA
 This is a image of my actual dna.
 https://flic.kr/p/5Gc5h4
+
+newsonline
+Human Cloning
+Illustration: Human Cloning
+https://flic.kr/p/ejuqqt

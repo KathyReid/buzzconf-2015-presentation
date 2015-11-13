@@ -884,6 +884,22 @@ h1 {
   opacity: 0.9;
 }
 
+#Infection {
+  background-image: url(../img/31032008.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
+#Cloning {
+  background-image: url(../img/8741880203_a8d042dac1.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
 
 
  .list-items {
