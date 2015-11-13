@@ -876,6 +876,14 @@ h1 {
   opacity: 0.9;
 }
 
+#Genes {
+  background-image: url(../img/3080247531_561d88e2e7_o.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
 
 
  .list-items {
@@ -899,6 +907,15 @@ h1 {
   border-collapse: collapse;
 }
 
+.list-items-large th, .list-items-large td {
+  font-size: 115%;
+  line-height: 140%;
+}
+
+.list-items-large li {
+  padding-bottom: 7%;
+}
+
 .list-items td ul {
   list-style: square inside;
   text-align: left;
@@ -910,7 +927,7 @@ h1 {
   color: #d5ded9;
   text-shadow: 1px 1px black;
   position: relative;
-  top: 80%;
+  top: 70%;
 
 }
 

@@ -48,3 +48,10 @@ https://flic.kr/p/S5u2P
 
 Jeremy Keith
 Devices
+https://flic.kr/p/bB5WUj
+
+
+Micah Baldwin
+Micah's DNA
+This is a image of my actual dna.
+https://flic.kr/p/5Gc5h4

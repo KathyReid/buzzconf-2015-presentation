@@ -197,11 +197,40 @@ No. The societal implications, the ethical implications, and the response mechan
 
 * ASSUMPTION 3: We're already deeply in the trans-human era and we need to prepare for the post-humanist world.
 
+So, as technologists, software developers, body devs - what are the challenges and approaches for overcoming them, as we adopt the human body as a development platform?
 
 
+# Physical environment
+
+## The challenges
+
+As we saw earlier, one of the challenges for mobile developers on the Android platform is the variance in the models that they have to develop for. There's a few thousand different Android models on the market. Imagine if there were six billion!
+
+SLIDE: Six billion environments
+
+Every human being is different, and as development platforms, each one of us differs markedly along a number of attributes. Age, medical history, socioeconomic indicators - each person is of themselves a different development platform.
+
+SLIDE: Body attributes
+
+* Age - riskier as we age. Changes to skin, co-morbidities.
+
+* Previous medical history
+  * infection risk - talk about antibiotic resistance. This becomes worse if the development platform - the person - has a compromised immune system. Has anyone ever had to maintain he 'dodgy server'? All the lights are green, all the monitoring is green, but you just know that as soon as you start the install that something's going to fail? Development on a human body with previous infection risk or compromised immune system is similar.
+
+  * allergies - different materials used in implantables. It's also not just allergies we have to be worried about - for instance material that's supposed to be encapsulated or enclosed can sometimes leak out. Take the case of Quinn Norton for instance - she had rare earth magnets implanted in the tip of one of her fingers so that she could sense some radio frequencies. Now, she can't have an MRI because of the metal that has leaked into her bloodstream.
+
+  * leftovers - the I have some silicon neatly tucked up behind my liver story. Talk about scar tissue, and how implanting devices where previous devices have been leaves scar tissue. Portacath inserted, fibrous scar tissue, makes it more difficult to implant one again.
 
 
-Which brings me to my next
+  So, there's some key challenges here. Everyone is different, and we have medical histories and different things wrong with us - we're not equivalent physical environments.
+
+## Overcoming these challenges
+
+  There's a couple of approaches that we could take here.
+
+### Medical only
+
+One approach is to have only qualified medical practitioners 
 
 
 
