@@ -275,17 +275,47 @@ So, I think that's probably going to be the approach - at least for the foreseea
 
 The other consideration we need to have here is at the other end of the lifecycle. What happens to implantable devices when someone dies? Do the implantable devices need to be removed before burial or cremation? What if the person has an active device? Something that transmits or which can be scanned?
 
-My father was one of the first people to have a device called a Cardioverter Defibrillator implanted in the early 1990s. The device was designed to monitor, and if necessary, correct an arrhythmia he had. Unfortunately, he passed away around 10 years ago, from a completely different illness. Before he passed away, he actually had to visit a cardiologist, and have his defibrillator - in effect - turned off.
+My father was one of the first people to have a device called a Cardioverter Defibrillator implanted in the early 1990s. The device was designed to monitor, and if necessary, correct an arrhythmia he had by delivering electric shocks directly to the heart. It saved his life several times - an incredibly valuable piece of medical equipment.
+
+Unfortunately, he passed away around 10 years ago, from a completely different illness. Before he passed away, he actually had to visit a cardiologist, and have his defibrillator - in effect - turned off.
 
 Will we need to do something for people who have other pieces of technology implanted? How will we know? What risk does that pose? If technical components are inadvertently buried or cremated with a person, will they present an environmental risk?
 
 [ ] - think about whether an image here of an older person dying would be useful
 
 
-#Development approach
+# Development approach
+
+So, we've talked now about the physical environment of the human body as a development platform, and talked a little around how those environments are commissioned and decommissioned. If we turn our attention now to the development approach for the human body as a platform, we can explore some of the unique challenges this presents.
+
+The good news in this space is that a lot of the maturity in development platforms spurred by development on PCs, the web and mobile and wearable platforms can be re-utilised for the body as a development platform.
+
+For instance, toolchains for developing code - IDEs, automated testing frameworks, libraries, collaborative version control etc can often be repurposed for body development - so I won't spend a lot of time talking about these.
+
+As with previous platforms, developers have to make some _strategic choices_. Just as mobile developers have to make a choice between iOS, Android, or HTML5, body devvers face similar challenges.
+
+## Development choices
+
+[ ] - Insert here some of the platform choices for body hacking
+
+* Dangerous Things and RFID and NFC implants
+* What's the cigarette sized packet thingy
+
+NOTE: Remember to mention I'm not affiliated with these companies in any way.
+
+## Overcoming challenges
+
+In terms of development, it's not really about challenges, it's about choices. To guide those choices, there are some key takeaways.
+
+* Ensure there's a strong community around the products you're using
+* Ensure the code and platform is open - many eyes make for shallow bugs
 
 
 
+# Testing and quality assurance
+
+
+# Release and deployment
 
 
 
