@@ -354,12 +354,39 @@ The challenge here is that we are only just starting to understand what embodime
 
 So, user experience will have a large role to play here in the future - devising approaches and tests to determine whether body development has been 'embodied'.
 
-
 # Release and deployment
 
+Again, with release and deployment, body development, implantables can build on the great work that's already been done for platforms like the web and mobiles. Practices such as tagging of releases, distributed version control using tools such as Subversion and Git are widespread.
 
+## Challenges
 
+The body as a development platform does however present some unique challenges. Making changes to code may be as simple as doing a git push, but how does this actually get transmitted to the implantable device?
 
+* wireless
+
+Wireless methods of deployment are increasingly being used to configure medical devices such as glucose meters, pacemakers and implantable defibrillators. However, if the device that's implanted doesn't support secure wireless, then it may be susceptible to unauthorised editing.
+
+* bluetooth
+
+Bluetooth suffers very similar issues - and of course with wireless and Bluetooth the nagging question remains of whether long term exposure to radio frequencies damages cells in any way. The empirical evidence seems to suggest not, but really we haven't been implanting devices in people long enough to know for sure, and I think this will be an emerging area of research.
+
+* NFC
+
+NFC has a different range, and therefore uses less power than wireless or bluetooth, so it's probably an ideal candidate in at least the short to medium term as the preferred way to release and deploy to the human body.
+
+Of course, it does have some drawbacks, such as the data that can be stored on an NFC device, and how *active* it is - and of course having an NFC reader close by all the time is not so practical.
+
+* Snip, rip, slip, clip
+
+Of course, if the implant fails, or the person doesn't embody the development, the release - the deployment - may need to be rolled back. In this case, it's a case of snipping the skin, ripping out the implant.
+
+And if the device fails, you may have to slip in a new one and clip the skin back together.
+
+Not a great approach.
+
+I suspect what we'll see here are devices that can be more easily implanted or removed, and the rise of power cells that use the body's own electricity, therefore lengthening the timespan that an active device can stay in the body.
+
+Some challenges and approaches there.
 
 # The Body Development Manifesto
 
@@ -373,28 +400,11 @@ I think I've asked the right questions, and together we'll arrive at the right a
 
 Thank you.
 
-
-
-
-
 # References
 
-# Other notes
-
-http://www.theguardian.com/artanddesign/architecture-design-blog/2015/aug/14/body-hackers-the-people-who-turn-themselves-into-cyborgs
-
-
-DUARTE  - The
-first discusses entangled agencies between organic and
-inorganic entities that are in a relation, mutually
-influencing one another, allowing individuals to register
-differences to which they were not articulated previous-
-ly
-
-
-DUARTE - They consider the body a highly
-malleable material, a transformable, improvable,
-augmentable entity. This attitude towards human corpo-
-reality corresponds to certain trends in performance art.
-The new forms of embodiment are based on the deploy-
-ment of novel and often highly advanced technologies.
+{\rtf \li720 \fi-720 \sl480 \slmult1 \sa0 Duarte, B. N. (2014). Entangled Agencies: New Individual Practices of Human-Technology Hybridism through Body Hacking. {\i{}NanoEthics}, {\i{}8}(3), 275\uc0\u8211{}285.\
+Esch, M. B., King, T. L., & Shuler, M. L. (2011). The Role of Body-on-a-Chip Devices in Drug and Toxicity Studies. {\i{}Annual Review of Biomedical Engineering}, {\i{}13}(1), 55\uc0\u8211{}72. http://doi.org/10.1146/annurev-bioeng-071910-124629\
+Hacking, I. (2005). The Cartesian vision fulfilled: analogue bodies and digital minds. {\i{}Interdisciplinary Science Reviews}, {\i{}30}(2), 153\uc0\u8211{}166. http://doi.org/10.1179/030801805X25963\
+Norton, Q. (n.d.). The Next Humans - Body Hacking and Human Enhancement. Retrieved from http://www.ambiguous.org/quinn/bodyhacking.pdf\
+Thomas, D. (2005). Hacking the body: code, performance and corporeality. {\i{}New Media & Society}, {\i{}7}(5), 647\uc0\u8211{}662.\
+}

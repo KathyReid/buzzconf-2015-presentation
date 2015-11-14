@@ -67,3 +67,7 @@ Stephan Ridgway
 My Fathers Funeral
 Photos of my Fathers funeral held in Berri, South Australia 13 July 2009 at the Berri Lawn Cemetery
 https://flic.kr/p/6ErLLQ
+
+Gohsuke Takama
+NFC seal IMAG0351
+https://flic.kr/p/dALnqq
