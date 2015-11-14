@@ -312,10 +312,51 @@ In terms of development, it's not really about challenges, it's about choices. T
   * Also means that it's more extensible and extendable.
   * openness is important - imagine if say Volkswagen made implantable devices! These things are going inside your body - if you don't know what's in them or how they're coded, can you really trust them?
 
-  There's actually a very famous case of a lady in the United States called Karen Sandler - she has a medical condition that requires the use of a pacemaker. But when she went to get the pacemaker installed, the biomedical company who manufactured the pacemaker wouldn't release the code. So, she actually refused to have the recommended model implanted, and instead opted to have a non-wireless model - an older model - implanted. 
+  There's actually a very famous case of a lady in the United States called Karen Sandler - she has a medical condition that requires the use of a pacemaker. But when she went to get the pacemaker installed, the biomedical company who manufactured the pacemaker wouldn't release the code. So, she actually refused to have the recommended model implanted, and instead opted to have a non-wireless model - an older model - implanted.
 
 
 # Testing and quality assurance
+
+So, as we talk about testing and quality assurance, I'd first of all like to see a show of hands. How many of us in the room are familiar with say test-driven development - where you might use something like PHPUnit or other frameworks to write unit tests - and then automatically run those tests using something like Selenium? Great - so that's *Test Driven Development*.
+
+Are there any people here who practice in an Agile based environment, where you write user stories and acceptance criteria? Yep, and you use something like *behavior driven development* to help test against those acceptance criteria?
+OK, great.
+
+Both of these approaches - test driven development and behaviour driven development - offer benefit to body development. Writing test cases for the board or the chip that's going to be implanted is a great idea. Writing acceptance criteria and behaviour driven tests for the use case the body dev project is intending to serve is a great idea.
+
+"As an office worker, I want to load my workplace's access credentials into the chip in my hand so that if I forget my access card, I can get into the office building"
+
+That's a great behaviour driven development test case.
+
+But for body development, we need to be aware of the mind. What we do to the body has an affect on the mind. Cancer survivors who've lost body parts don't just have to do physical rehabilitation - they usually do some form of psychological therapy as well - treating the body and the mind.
+
+So, what we need for body development is really an addition to behaviour driven development. We need
+
+*Embodiment driven development*
+
+This approach extends behavior driven development to ensure that the *experience* that the person - the platform - has is a positive one.
+
+I'm not talking about the pain or the infections or the other inconveniences of surgery that are required for implantable technology. I'm talking about the ability of the person - the platform -
+
+* to embody
+* to embrace
+* to accept
+
+the development that has been made a part of their body.
+
+*Has the development also become a part of their mind?*
+
+This approach touches on the phenomena that have been reported for patients with implantable medical equipment - pacemakers and defibrillators and the like - where the person psychologically rejects the technology. There is a dissonance between their body and their mind.
+
+The challenge here is that we are only just starting to understand what embodiment looks like - there's no 'easy' test for this - and a lot of the work in embodiment is actually based in psychology.
+
+## Solutions
+
+So, user experience will have a large role to play here in the future - devising approaches and tests to determine whether body development has been 'embodied'.
+
+
+
+
 
 
 # Release and deployment
@@ -326,7 +367,15 @@ In terms of development, it's not really about challenges, it's about choices. T
 
 # The Body Development Manifesto
 
+So, in conclusion, what I'd like to leave you with, to reflect upon is this:
+
+We have development best practices now for PC based development, for web based development, and for mobile and wearable type development. We are in a transhumanist world, and very quickly we will be in a post humanist world. We desperately need best practices for this.
+
+We need the *body dev manifesto*
+
 * Establish a baseline - know what's normal
+
+SLIDE: Body dev manifesto
 
 
 

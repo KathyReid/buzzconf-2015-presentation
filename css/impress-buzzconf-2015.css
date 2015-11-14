@@ -908,6 +908,14 @@ h1 {
   opacity: 0.9;
 }
 
+#Death {
+  background-image: url(../img/3716839104_d9a2d5faca_b.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
 #DangerousThings {
   background-image: url(../img/dangerous-things-plant.jpg);
   background-repeat: no-repeat;
