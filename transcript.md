@@ -299,7 +299,8 @@ As with previous platforms, developers have to make some _strategic choices_. Ju
 [ ] - Insert here some of the platform choices for body hacking
 
 * Dangerous Things and RFID and NFC implants
-* What's the cigarette sized packet thingy
+* Northstar V1 for backlighting tattoos
+* Circadia
 
 NOTE: Remember to mention I'm not affiliated with these companies in any way.
 

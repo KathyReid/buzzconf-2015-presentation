@@ -909,7 +909,7 @@ h1 {
 }
 
 #DangerousThings {
-  background-image: url(../img/human-injectable-rfid-implantable.jpg);
+  background-image: url(../img/dangerous-things-plant.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #7a6a53;
@@ -918,6 +918,22 @@ h1 {
 
 #Northstar {
   background-image: url(../img/1447093963115141.gif);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
+#Circadia {
+  background-image: url(../img/circadia.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #7a6a53;
+  opacity: 0.9;
+}
+
+#CircadiaImplanted {
+  background-image: url(../img/circadia-implanted.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #7a6a53;
