@@ -355,10 +355,6 @@ The challenge here is that we are only just starting to understand what embodime
 So, user experience will have a large role to play here in the future - devising approaches and tests to determine whether body development has been 'embodied'.
 
 
-
-
-
-
 # Release and deployment
 
 
@@ -369,13 +365,14 @@ So, user experience will have a large role to play here in the future - devising
 
 So, in conclusion, what I'd like to leave you with, to reflect upon is this:
 
-We have development best practices now for PC based development, for web based development, and for mobile and wearable type development. We are in a transhumanist world, and very quickly we will be in a post humanist world. We desperately need best practices for this.
+We have development best practices now for PC based development, for web based development, and for mobile and wearable type development. We are in a transhumanist world, and very quickly we will be in a post humanist world.
 
-We need the *body dev manifesto*
+We desperately need best practices to manage this transition well.
 
-* Establish a baseline - know what's normal
+I think I've asked the right questions, and together we'll arrive at the right answers.
 
-SLIDE: Body dev manifesto
+Thank you.
+
 
 
 
