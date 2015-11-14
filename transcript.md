@@ -296,8 +296,6 @@ As with previous platforms, developers have to make some _strategic choices_. Ju
 
 ## Development choices
 
-[ ] - Insert here some of the platform choices for body hacking
-
 * Dangerous Things and RFID and NFC implants
 * Northstar V1 for backlighting tattoos
 * Circadia
@@ -309,8 +307,12 @@ NOTE: Remember to mention I'm not affiliated with these companies in any way.
 In terms of development, it's not really about challenges, it's about choices. To guide those choices, there are some key takeaways.
 
 * Ensure there's a strong community around the products you're using
+  * You don't want to be in the situation where you have something implanted, and then the development on that ends, and then there's a problem, and there's no one around who can help you with it.
 * Ensure the code and platform is open - many eyes make for shallow bugs
+  * Also means that it's more extensible and extendable.
+  * openness is important - imagine if say Volkswagen made implantable devices! These things are going inside your body - if you don't know what's in them or how they're coded, can you really trust them?
 
+  There's actually a very famous case of a lady in the United States called Karen Sandler - she has a medical condition that requires the use of a pacemaker. But when she went to get the pacemaker installed, the biomedical company who manufactured the pacemaker wouldn't release the code. So, she actually refused to have the recommended model implanted, and instead opted to have a non-wireless model - an older model - implanted. 
 
 
 # Testing and quality assurance
