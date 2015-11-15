@@ -40,7 +40,6 @@ Today we'll be talking around the convergence of these two disciplines. We will 
 
 We'll then move to discussing the human body as a development platform
 
-- [ ] TODO: NEED TO PROVIDE A SUMMARY HERE
 
 # Evolution of computing platforms
 
@@ -250,7 +249,7 @@ So, here I'm going to borrow a little from ITIL and COBIT  - and essentially pos
 
 * Establish a baseline - know your body, what it's been through, and how it responds. Understand and document dependencies in your body - your development environment - just as you would with a technical environment. Know what normal looks like.
 
-* Plan your changes - make sure you have things like antibiotics and painkillers and support people on hand. Make sure you've coded up your RFID chip *before* you implant it. Make sure the NFC chip you're implanting
+* Plan your changes - make sure you have things like antibiotics and painkillers and support people on hand. Make sure you've coded up your RFID chip *before* you implant it. Make sure the NFC chip you're implanting isn't locked.
 
 * Monitor - what are you going to do if you develop an infection? What does an infection look like - *this* is what an infection looks like. Make sure there's money set aside for maintenance.
 
@@ -280,9 +279,6 @@ My father was one of the first people to have a device called a Cardioverter Def
 Unfortunately, he passed away around 10 years ago, from a completely different illness. Before he passed away, he actually had to visit a cardiologist, and have his defibrillator - in effect - turned off.
 
 Will we need to do something for people who have other pieces of technology implanted? How will we know? What risk does that pose? If technical components are inadvertently buried or cremated with a person, will they present an environmental risk?
-
-[ ] - think about whether an image here of an older person dying would be useful
-
 
 # Development approach
 
